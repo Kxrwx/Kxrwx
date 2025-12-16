@@ -66,6 +66,6 @@ N'hésitez pas à me contacter pour discuter de projets, d'opportunités de stag
 | :--- | :--- |
 | **Portfolio** | [https://kxrwx.github.io/mon-portfolio/](https://kxrwx.github.io/mon-portfolio/) |
 | **LinkedIn** | [Maxime Iffland](https://www.linkedin.com/in/maxime-iffland-3178b82b6/) |
-| **Email** | *[Ajouter votre adresse email professionnelle ici]* |
+| **Email** | *[maxime.iffland@icloud.com]* |
 
 ---
