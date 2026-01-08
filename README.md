@@ -54,7 +54,6 @@ Voici les technologies que j'utilise et que j'apprends activement, classées par
 >
 > Durant ce stage, j'ai acquis une première expérience dans l'optimisation des processus métier en maîtrisant la **Power Platform (Microsoft)**. Cela m'a permis de comprendre l'importance des outils low-code et de la modélisation de données dans un environnement d'entreprise.
 
-*(**Note :** Vous pouvez développer un peu plus cette section si vous avez des réalisations spécifiques à mentionner.)*
 
 ---
 
